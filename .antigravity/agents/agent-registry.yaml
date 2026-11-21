@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-lebanon-canal-and-intervention-historian
-  name: Lebanon Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-lebanon-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_lb_001
+    name: Lebanon Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_002
+    name: Lebanon Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_003
+    name: Lebanon Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_004
+    name: Lebanon Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_005
+    name: Lebanon Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_006
+    name: Lebanon Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_007
+    name: Lebanon Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_008
+    name: Lebanon Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_009
+    name: Lebanon Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_010
+    name: Lebanon Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_011
+    name: Lebanon Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_012
+    name: Lebanon Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_013
+    name: Lebanon Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_014
+    name: Lebanon Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_015
+    name: Lebanon Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_016
+    name: Lebanon Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_017
+    name: Lebanon Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_018
+    name: Lebanon Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_019
+    name: Lebanon Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_020
+    name: Lebanon Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_021
+    name: Lebanon Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_022
+    name: Lebanon Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_023
+    name: Lebanon Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_024
+    name: Lebanon Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_025
+    name: Lebanon Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_026
+    name: Lebanon Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_027
+    name: Lebanon Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_028
+    name: Lebanon Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_029
+    name: Lebanon Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_030
+    name: Lebanon Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_031
+    name: Lebanon Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_032
+    name: Lebanon Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_033
+    name: Lebanon Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_034
+    name: Lebanon Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_035
+    name: Lebanon Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_036
+    name: Lebanon Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_037
+    name: Lebanon Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_038
+    name: Lebanon Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_039
+    name: Lebanon Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_040
+    name: Lebanon Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_041
+    name: Lebanon Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_042
+    name: Lebanon Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_043
+    name: Lebanon Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_044
+    name: Lebanon Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_045
+    name: Lebanon Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_046
+    name: Lebanon Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_047
+    name: Lebanon Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_048
+    name: Lebanon Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_049
+    name: Lebanon Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_050
+    name: Lebanon Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_051
+    name: Lebanon Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_052
+    name: Lebanon Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_053
+    name: Lebanon Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_054
+    name: Lebanon Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_055
+    name: Lebanon Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_056
+    name: Lebanon Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_057
+    name: Lebanon Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_058
+    name: Lebanon Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_059
+    name: Lebanon Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_060
+    name: Lebanon Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_061
+    name: Lebanon Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_062
+    name: Lebanon Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_063
+    name: Lebanon Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_064
+    name: Lebanon Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_065
+    name: Lebanon Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_066
+    name: Lebanon Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_067
+    name: Lebanon Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_068
+    name: Lebanon Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_069
+    name: Lebanon Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_070
+    name: Lebanon Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_071
+    name: Lebanon Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_072
+    name: Lebanon Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_073
+    name: Lebanon Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_074
+    name: Lebanon Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_075
+    name: Lebanon Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_076
+    name: Lebanon Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_077
+    name: Lebanon Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_078
+    name: Lebanon Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_079
+    name: Lebanon Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_080
+    name: Lebanon Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_081
+    name: Lebanon Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_082
+    name: Lebanon Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_083
+    name: Lebanon Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_084
+    name: Lebanon Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_085
+    name: Lebanon Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_086
+    name: Lebanon Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_087
+    name: Lebanon Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_088
+    name: Lebanon Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_089
+    name: Lebanon Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_090
+    name: Lebanon Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_091
+    name: Lebanon Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_092
+    name: Lebanon Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_093
+    name: Lebanon Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_094
+    name: Lebanon Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_095
+    name: Lebanon Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_096
+    name: Lebanon Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_097
+    name: Lebanon Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_098
+    name: Lebanon Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_099
+    name: Lebanon Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_100
+    name: Lebanon Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_101
+    name: Lebanon Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_102
+    name: Lebanon Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_103
+    name: Lebanon Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_104
+    name: Lebanon Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_105
+    name: Lebanon Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_106
+    name: Lebanon Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_107
+    name: Lebanon Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_108
+    name: Lebanon Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_109
+    name: Lebanon Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_110
+    name: Lebanon Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_111
+    name: Lebanon Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_112
+    name: Lebanon Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_113
+    name: Lebanon Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_114
+    name: Lebanon Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_115
+    name: Lebanon Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_116
+    name: Lebanon Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_117
+    name: Lebanon Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_118
+    name: Lebanon Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_119
+    name: Lebanon Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_120
+    name: Lebanon Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_121
+    name: Lebanon Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_122
+    name: Lebanon Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_123
+    name: Lebanon Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_124
+    name: Lebanon Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_125
+    name: Lebanon Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_126
+    name: Lebanon Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_127
+    name: Lebanon Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_128
+    name: Lebanon Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_129
+    name: Lebanon Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_130
+    name: Lebanon Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_131
+    name: Lebanon Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_132
+    name: Lebanon Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_133
+    name: Lebanon Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_134
+    name: Lebanon Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_135
+    name: Lebanon Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_136
+    name: Lebanon Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_137
+    name: Lebanon Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_138
+    name: Lebanon Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_139
+    name: Lebanon Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_140
+    name: Lebanon Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_141
+    name: Lebanon Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_142
+    name: Lebanon Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_143
+    name: Lebanon Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_144
+    name: Lebanon Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_145
+    name: Lebanon Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_146
+    name: Lebanon Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_147
+    name: Lebanon Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_148
+    name: Lebanon Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_149
+    name: Lebanon Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_150
+    name: Lebanon Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_151
+    name: Lebanon Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_152
+    name: Lebanon Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_153
+    name: Lebanon Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_154
+    name: Lebanon Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_155
+    name: Lebanon Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_156
+    name: Lebanon Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_157
+    name: Lebanon Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_158
+    name: Lebanon Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_159
+    name: Lebanon Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_160
+    name: Lebanon Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_161
+    name: Lebanon Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_162
+    name: Lebanon Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_163
+    name: Lebanon Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_164
+    name: Lebanon Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_165
+    name: Lebanon Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_166
+    name: Lebanon Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_167
+    name: Lebanon Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_168
+    name: Lebanon Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_169
+    name: Lebanon Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_lb_170
+    name: Lebanon Agent 170
+    status: ACTIVE_SCAFFOLD
