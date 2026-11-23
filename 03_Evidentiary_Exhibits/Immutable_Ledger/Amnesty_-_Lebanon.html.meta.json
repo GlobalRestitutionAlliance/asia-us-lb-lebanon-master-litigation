@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/lebanon/",
+  "final_url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/lebanon/",
+  "title": "Amnesty - Lebanon",
+  "fetched_at": "2026-11-23T15:25:20.939875Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 97725,
+  "sha256": "de5f76206df6a93b7b23c13d6061fd1dc4d82d306c76f9d54df9149098b0f320",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
